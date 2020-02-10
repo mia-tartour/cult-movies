@@ -1,0 +1,51 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Crete+Round|EB+Garamond&display=swap');
+@import url("compenents/container.css");
+@import url("compenents/avatar.css");
+@import url("compenents/button.css");
+@import url("compenents/banner.css");
+@import url("compenents/card.css");
+
+
+
+body { 
+font-family: 'EB Garamond', serif; 
+font-size: 18px; 
+font-weight: lighter;
+margin: 0px; 
+ }
+
+
+h1 { 
+font-size: 60px; 
+font-weight: bold;
+font-family: 'Crete Round', serif;
+ }
+
+
+ h2 { 
+font-family: 'Crete Round', serif;
+font-size: 30px; 
+font-weight: bold;
+margin-top: 100px;
+ }
+
+h3 { 
+font-size: 15px;
+}
+
+
+a { 
+text-decoration: none;
+ }
+
+ a:hover   {  
+	background-color: : black;
+	}
+
+
+strong { 
+font-weight: bold;
+color: #800020; 
+}

@@ -1,0 +1,17 @@
+
+.btn-blue { 
+background-color:#800020; 
+padding: 15px 20px;
+border-radius: 6px; 
+color: white; 
+font-weight: bold; 
+font-family: 'Crete Round', serif;
+ }
+
+ .btn-blue:hover { 
+background-color: white; 
+color: black;
+
+
+  }
+
